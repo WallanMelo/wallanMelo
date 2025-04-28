@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, Eu sou Wallan Melo!!!
+
+### Desenvolvedor Full Stack | Apaixonado por Tecnologia
+
+### Atualmente estou cursando Bacharelado em Sistemas de Informação no IFNMG - Campus Januária, e estou explorando novas tecnologias  
 
 <!--
 **WallanMelo/wallanMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
