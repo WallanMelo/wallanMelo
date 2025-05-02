@@ -1,8 +1,8 @@
-## Hi there 👋, Eu sou Wallan Melo!!!
+## Hi there 👋, I'am Wallan Melo!!!
 
-### Desenvolvedor Full Stack | Apaixonado por Tecnologia
+### Full Stack Developer | Passionate about Technology
 
-### Tenho 22 anos, e atualmente estou cursando o 7° Período de Bacharelado em Sistemas de Informação no IFNMG - Campus Januária  
+### I'am 22 years old, and I'am currently studying the 7th Period of Bachelor's Degree in Information Systems at IFNMG - Januária Campus    
 
 
 ## My Skills
@@ -14,10 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
