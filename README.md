@@ -27,6 +27,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+## 📫 How to reach me
+
+Feel free to connect with me contact through my Beacons page:
+
+🔗 [beacons.ai/wallan7Melo](https://beacons.ai/wallan7Melo)
+
+I'm always open to networking, collaboration, or just a good chat about tech and development!
 <!--
 **WallanMelo/wallanMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
