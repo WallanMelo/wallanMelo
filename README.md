@@ -1,8 +1,8 @@
 ## Hi there 👋, I'am Wallan Melo!!!
 
-### Full Stack Developer | Passionate about Technology
+**Full Stack Developer | Passionate about Technology**
 
-### I'am 22 years old, and I'am currently studying the 7th Period of Bachelor's Degree in Information Systems at IFNMG - Januária Campus    
+**I'am 22 years old, and I'am currently studying the 7th Period of Bachelor's Degree in Information Systems at IFNMG - Januária Campus**    
 
 
 ## My Skills
