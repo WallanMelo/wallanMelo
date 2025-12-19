@@ -2,8 +2,11 @@
 
 **Full Stack Developer | Passionate about Technology**
 
-**I'am 22 years old, and I'am currently studying the 7th Period of Bachelor's Degree in Information Systems at IFNMG - Januária Campus**    
+I'm 22 years old and currently in my 7th semester of a Bachelor's degree in Information Systems at IFNMG – Januária Campus.
 
+I'm focused on constantly learning and evolving in the field of technology, seeking to apply the knowledge acquired throughout my degree in practice.
+
+In my free time, I enjoy playing soccer ⚽, video games 🎮, and doing drum covers on the drums haha🥁.
 
 ## My Skills
 
